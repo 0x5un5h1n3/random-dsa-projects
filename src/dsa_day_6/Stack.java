@@ -50,7 +50,7 @@ public class Stack {
         s.push(400);
         s.push(500);
 
-//        System.out.println("pop : " + s.pop());
+        System.out.println("pop : " + s.pop());
         System.out.println("peek : " + s.peek());
         System.out.println("size : " + s.size());
         System.out.println("isEmpty : " + s.isEmpty());
