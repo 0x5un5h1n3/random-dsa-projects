@@ -34,6 +34,10 @@ public class Stack {
         return top;
     }
 
+    public boolean isEmpty(){
+        return (top ==0);
+    }
+
     public static void main(String[] args) {
         Stack s = new Stack();
         s.push(100);
@@ -45,6 +49,7 @@ public class Stack {
         System.out.println("pop : " + s.pop());
         System.out.println("peek : " + s.peek());
         System.out.println("size : " + s.size());
+        System.out.println("isEmpty : " + s.isEmpty());
 
         for (int i = 0; i < s.top; i++) {
             int arg = s.stackData[i];
