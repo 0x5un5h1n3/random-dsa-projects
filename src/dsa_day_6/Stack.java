@@ -29,6 +29,10 @@ public class Stack {
             return 0;
         }
     }
+     
+    public int size(){
+        return top;
+    }
 
     public static void main(String[] args) {
         Stack s = new Stack();
@@ -40,6 +44,7 @@ public class Stack {
 
         System.out.println("pop : " + s.pop());
         System.out.println("peek : " + s.peek());
+        System.out.println("size : " + s.size());
 
         for (int i = 0; i < s.top; i++) {
             int arg = s.stackData[i];
