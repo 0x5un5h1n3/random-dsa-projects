@@ -1,4 +1,4 @@
-package dsa_day_4;
+package dsa_day_04;
 
 public class Recursion {
     

@@ -1,5 +1,5 @@
 
-package dsa_day_1;
+package dsa_day_01;
 
 public class test_list {
     

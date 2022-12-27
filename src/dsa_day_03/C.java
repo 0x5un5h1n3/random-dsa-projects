@@ -1,4 +1,4 @@
-package dsa_day_3;
+package dsa_day_03;
 
 public class C {
 

@@ -1,4 +1,4 @@
-package dsa_day_7;
+package dsa_day_07;
 
 
 public class Node {

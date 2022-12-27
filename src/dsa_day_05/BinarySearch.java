@@ -1,4 +1,4 @@
-package dsa_day_5;
+package dsa_day_05;
 
 public class BinarySearch {
 

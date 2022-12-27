@@ -1,4 +1,4 @@
-package dsa_day_6;
+package dsa_day_06;
 
 public class Stack {
 

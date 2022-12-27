@@ -1,5 +1,5 @@
 
-package dsa_day_2;
+package dsa_day_02;
 
 public class SSL {
     Node head = null; // root Node
